@@ -1,5 +1,6 @@
 .posterImage{
-    height: 600px;
+    height: 585px;
+    opacity: 0.8;
 }
 
 .posterImage > img {
@@ -30,7 +31,7 @@
 .posterImage__title {
     font-weight: 900;
     font-size: 4rem;
-    margin-bottom: 0.4rem;
+    margin-bottom: 1.5rem;
     text-align: left;
 }
 
